@@ -1,0 +1,12 @@
+[package]
+name = "build-script-cfg"
+description = "Configure and set cfg flags in build scripts."
+version = "0.0.0"
+edition = "2021"
+authors = ["YdrMaster <ydrml@hotmail.com>"]
+repository = "https://github.com/YdrMaster/build-script-cfg.git"
+documentation = "https://docs.rs/build-script-cfg"
+license = "MIT"
+readme = "README.md"
+keywords = ["cfg", "build-script"]
+categories = ["development-tools::build-utils"]
